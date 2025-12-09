@@ -13,6 +13,10 @@ Built with a full **end-to-end data science pipeline** and deployed as an intera
 **Kandarp Joshi**
 📍 India
 ---
+AI & Data Science Developer
+
+🌐  Github: [@Kandarp Joshi](https://github.com/KandarpJoshi1112)
+🔗  LinkedIn: [@Kandarp Joshi](https://www.linkedin.com/in/kandarp-joshi-3451231bb/)
 
 ## 🚀 Tech Stack
 
