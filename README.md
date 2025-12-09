@@ -4,6 +4,8 @@
 Predict the nightly price of an Airbnb listing in Seattle using Machine Learning.
 Built with a full **end-to-end data science pipeline** and deployed as an interactive **Streamlit web app**.
 
+🟢 Live Demo: https://airbnb-price-estimator.streamlit.app/
+
 ---
 
 ### 👨‍💻 Author
@@ -169,6 +171,5 @@ please ⭐ **star the repository** and share your thoughts! 💙
 📄 Case Study Notebook → `/notebook/Airbnb_Price_Estimator_Case_Study.ipynb`
 🖥️ App Code → `/app.py`
 
-*(Add your GitHub repo URL and deployment link here once live)*
 
 
