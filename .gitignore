@@ -1,0 +1,54 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# ----------------------
+# Virtual Environment
+# ----------------------
+venv/
+env/
+.venv/
+
+# ----------------------
+# OS / Editor files
+# ----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ----------------------
+# Streamlit / Logs
+# ----------------------
+.streamlit/
+logs/
+
+# ----------------------
+# Build / Packaging
+# ----------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------
+# Colab / Drive
+# ----------------------
+*.swp
+*.bak
+*.tmp
+
+# ----------------------
+# Dataset (Optional)
+# If dataset downloaded locally, ignore CSV to keep repo small.
+# Remove this line if you want dataset included in repo!
+# ----------------------
+listings.csv
+data/
